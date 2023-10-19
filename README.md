@@ -1,3 +1,6 @@
+# 修改   
+已汉化    
+
 # luci-app-sms-tool-js
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/4IceG/luci-app-sms-tool-js?style=flat-square)
